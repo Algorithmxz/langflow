@@ -108,3 +108,9 @@ We welcome contributions from developers of all levels. If you'd like to contrib
 ## ❤️ Contributors
 
 [![langflow contributors](https://contrib.rocks/image?repo=langflow-ai/langflow)](https://github.com/langflow-ai/langflow/graphs/contributors)
+
+
+> Automated agentic update: 2026-03-12T16:56:39.105Z
+
+
+> Automated agentic update: 2026-03-12T17:01:46.120Z
